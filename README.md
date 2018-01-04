@@ -1,4 +1,4 @@
 # hello-world
-My firt GitHib thingy.
+My first GitHib thing.
 No code, just a readme file.
 Hoping I can delete this once I'm done.
